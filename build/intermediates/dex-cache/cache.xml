@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-c1819a4f1cda4091c9430e224eb54d7c54841db0.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.orhanobut\dialogplus\1.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="772647233d87bcae1346b7cbec8b70fbf904dfaf">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-c5c60b7e462d442a2f81adf12cc30e7a0aca2f39.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\0.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="157015930713d0411b69a76606f306c9a2c11af3">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-25f9c3c5422560b6d3b5368d06d3077af7e8f8bc.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-b863624093ab48aa56e8338840417c0420ad6efa.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.jaredrummler\android-device-names\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af35b59965d007a488312906947061c22b4f429a">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-81a2bdfbefb6452b2e5a5acddcd73c2248d01095.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="36cea48a105ddeef047b645ab0f86f72993e8676">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-f4347052ba0fa3b814037b6cedc9fefa7ca9309c.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.4-5565f9774565924da3d3b4735254fad11a42f00d.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-91f76f931c29c2c490d4ef89cf7f4d7029307b89.jar" />
+    </item>
+    <item
+        jar="C:\Users\дима\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\gson-2.2.4-65bb9aece1773fc6aa92a519b7a42a6ba6775734.jar" />
+    </item>
+    <item
+        jar="C:\Users\дима\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\retrofit-1.6.1-6c9639328f8f16948609da742a52b0912896bd47.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73e3dcd1c6363340af17e78967e6ed27d585d52d">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-2d8ecfd75f305c15957f852cdf33d9a39abe5bf5.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-1b610d2cb171e07c2d28feaad5273a31f554af95.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-deb2f0200f0651d9c80260a980a72170c0a2bc3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\дима\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\library-1.0.19-15277f61a73234041adcef58e941b7a68c6e22d8.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\de.mrmaffen\vlc-android-sdk\3.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43abcb2ec5686c280782c946ea468f9ac7ea15c0">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-504435d4c3e56d2dece5536646eaf7c7dfc34ff7.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-c7bc5e40d2b6641b2e9f194654b98b6308fb1ec2.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a9f5c30c22dc9a623078f85000c787cd191aa35f">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-2d45b5335e538641defb5c59765e22156d715d99.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-97fe59f5760854e000bd828d22a4dda355aaf3b1.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85dbcb10f2e04aa08bcd7b4405e4a7fec615760d">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-0fbf2e6da6a209ffa4625b9e5dea3a1848926889.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\internal_impl-23.1.0-c223f354ae295a67c25acc086152a2207d17744d.jar" />
+    </item>
+    <item
+        jar="C:\Users\дима\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\bolts-android-1.1.4-13c78def4ec362afd9105fc32d1d91b8756ef015.jar" />
+    </item>
+    <item
+        jar="F:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\support-annotations-23.1.0-42ae7d90e776086d6955ced3b34812ec8edc100c.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-e37c8ba1601efecb9ce4164f16bce7660dbef066.jar" />
+    </item>
+    <item
+        jar="C:\Users\дима\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\picasso-2.5.2-e2bc8e646360481259be52c37fcb6b7d655fd895.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-6126d437a2c747fedf9d9589d71d6457bbebdacb.jar" />
+    </item>
+    <item
+        jar="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2bd26de12f5ea29d4cabc6e84045de04cb615680">
+        <dex dex="G:\Users\Dima\Documents\joovoox\android\JooVooX\app\build\intermediates\pre-dexed\release\classes-c69f7586c5bcc0cbc7b008e5eebf458fd0578c60.jar" />
+    </item>
+
+</items>
